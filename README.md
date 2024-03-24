@@ -53,9 +53,6 @@ If you encounter any issues or have questions regarding the assignment, feel fre
 
 - [Link to additional resources or references that may aid in completing the assignment]
 
-## Acknowledgements
-
-We would like to express our gratitude to [mention any individuals or resources that contributed to the assignment].
 
 ## License
 
