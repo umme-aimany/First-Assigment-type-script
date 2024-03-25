@@ -39,21 +39,6 @@ To get started with the assignment, follow these steps:
 4. Ensure your solutions are well-documented and adhere to TypeScript best practices.
 5. Once completed, submit your assignment according to the submission guidelines.
 
-## Submission Guidelines
-
-- Ensure all your solutions are properly documented and organized within the repository.
-- Submit your completed assignment by [submission deadline].
-- [Specify any additional submission requirements or guidelines]
-
-## Support
-
-If you encounter any issues or have questions regarding the assignment, feel free to reach out to [instructor/teaching assistant] for assistance.
-
-## Resources
-
-- [Link to additional resources or references that may aid in completing the assignment]
-
-
 ## License
 
 This assignment is licensed under the [License Name] License. See the [LICENSE](LICENSE) file for details.
